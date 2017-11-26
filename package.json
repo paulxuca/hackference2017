@@ -1,0 +1,18 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "private": true,
+  "dependencies": {
+    "@shoutem/ui": "^0.21.3",
+    "expo": "^23.0.0",
+    "prop-types": "^15.6.0",
+    "rc-input-number": "^4.0.0",
+    "react": "16.0.0",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-23.0.0.tar.gz",
+    "react-native-ui-kitten": "^2.0.1",
+    "react-native-vector-icons": "^4.4.2",
+    "react-navigation": "^1.0.0-beta.21",
+    "react-redux": "^5.0.6",
+    "redux": "^3.7.2",
+    "styled-components": "^2.2.3"
+  }
+}
